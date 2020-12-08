@@ -37,13 +37,13 @@
     </head>
     <body>
 
-    <h1>All about rabbits!</h1>
+    <h1>CO TO JEST ANIME??</h1>
     
     <h2 id="rabbits-info-heading">Basic info</h2>
     
-    <p id="rabbits-info">Rabbits are little creatures with long ears and puffy tails, and they move their nose up and down in an adorable way. They eat the most orange vegetables in <em>our</em> world, and <strong>they reproduce more than any human <em>ever</em> has</strong>.</p>
+    <p id="rabbits-info">Anime - oznacza ono film animowany, z tym że <strong>w Japonii terminem tym określa się wszystkie seriale i filmy animowane, bez względu na kraj ich pochodzenia. Natomiast poza Japonią słowo <em>anime</em> służy do określenia japońskich filmów animowanych oraz stylu japońskiej animacji.</strong> </p>
     
-    <p>Learn more on <a href="http://en.wikipedia.org/wiki/Rabbit">Wikipedia</a>.</p>
+    <p>Learn more on <a href="https://pl.wikipedia.org/wiki/Anime">Wikipedia</a>.</p>
     
     <h2>Songs</h2>
     
