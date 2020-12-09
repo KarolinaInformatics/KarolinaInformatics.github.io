@@ -29,7 +29,7 @@
         .krótkahistoriaanime {
             background-color: brown;
             font-family: fantasy;
-            font-size: 16px;
+            font-size: 18px;
             font-style: italic;
         }
         
@@ -45,7 +45,7 @@
     
     <p>Dowiedz się więcej na: <a href="https://pl.wikipedia.org/wiki/Anime">Wikipedia</a>.</p>
     
-    <h2>KRÓTKA HISTORIA ANIME</h2>
+    <h2>KRÓTKA HISTORIA ANIME:</h2>
     
     <p class="krótkahistoriaanime">Słowo anime ma jeszcze jedną specyficzną wartość i często dotyczy japońskich animacji, która w ostatnich latach stała się bardzo popularna. <br>
 To właśnie Japonię uważa się za matkę anime. <br>
