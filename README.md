@@ -73,7 +73,7 @@ Nurt ten stał się na tyle poważny że objął cały świat i kultywowany jest
 Wiele grup fanów organizuje się nie tylko w internecie, ale i wielu stowarzyszeniach i grupach. <br>
 </p>
     
-    <img src="https://samequizy.pl/wp-content/uploads/2015/11/filing_images_3358762e0ac6.jpg" alt="skaładkapostacianime" width="550"> 
+    <img src="https://samequizy.pl/wp-content/uploads/2015/11/filing_images_3358762e0ac6.jpg" alt="skaładkapostacianime" width="700"> 
     
     <h3>DLACZEGO WARTO ZACZĄĆ OGLĄDAĆ ANIME?</h3>
     
