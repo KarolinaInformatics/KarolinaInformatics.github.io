@@ -75,20 +75,22 @@ Wiele grup fanów organizuje się nie tylko w internecie, ale i wielu stowarzysz
     
     <img src="https://samequizy.pl/wp-content/uploads/2015/11/filing_images_3358762e0ac6.jpg" alt="skaładkapostacianime" width="203"> 
     
-    <h3>Why rabbits make great pets</h3>
+    <h3>DLACZEGO WARTO ZACZĄĆ OGLĄDAĆ ANIME?</h3>
     
     <ul>
-        <li>They're furry!</li>
-        <li>Great listeners!</li>
-        <li>Eat all your leftover carrots!</li>
+        <li>Potrafi poruszać ważne społecznie oraz kontrowersyjne tematy skłaniając widza do refleksji.</li>
+        <li>Rozpatruje owe tematy nieszablonowo, bardzo często za pomoca genialnych metafor, i pokazuje go z wielu stron, co z kolei potrafi nauczyć, by patrzeć na świat z wielu perspektyw.</li>
+        <li>Są przedewszystkim bardzo ciekawe.</li>
     </ul>
     
-    <h3>Top 3 most famous rabbits</h3>
+    <h3>3 NAJBARDZIEJ ZNANE ANIME:</h3>
     
     <ol>
-        <li>Bugs bunny</li>
-        <li>Easter Bunny</li>
-        <li>Thumper</li>
+        <li>NARUTO</li>
+        <li>TOKYO GHOUL</li>
+        <li>DETH NOTE</li>
+        <li>ONE PIECE</li>
+        <li>HAIKYUU!</li>
     </ol>
     
     
