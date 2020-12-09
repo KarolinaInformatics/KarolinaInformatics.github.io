@@ -5,31 +5,31 @@
         <title>More CSS text properties</title>
         <style>
         body {
-            font-size: 12px;
+            font-size: 16px;
         }
         h2 {
-            color: rgb(0, 232, 15);
+            color: rgb(5, 5, 5);
             font-size: 1.5em;
         }  
         
         #anime-info-heading {
-            background-color: purple;
+            background-color: red;
         }
         
         p {
-            color: rgb(191, 0, 255);
+            color: rgb(10, 10, 10);
             font-family: "Helvetica", sans-serif;
         }
         
         #anime-info {
-            color: purple;
+            color: black;
             font-weight: bold;
         }
         
         .krótkahistoriaanime {
-            background-color: yellow;
+            background-color: brown;
             font-family: fantasy;
-            font-size: 13px;
+            font-size: 16px;
             font-style: italic;
         }
         
@@ -73,7 +73,7 @@ Nurt ten stał się na tyle poważny że objął cały świat i kultywowany jest
 Wiele grup fanów organizuje się nie tylko w internecie, ale i wielu stowarzyszeniach i grupach. <br>
 </p>
     
-    <img src="https://samequizy.pl/wp-content/uploads/2015/11/filing_images_3358762e0ac6.jpg" alt="skaładkapostacianime" width="222"> 
+    <img src="https://samequizy.pl/wp-content/uploads/2015/11/filing_images_3358762e0ac6.jpg" alt="skaładkapostacianime" width="550"> 
     
     <h3>DLACZEGO WARTO ZACZĄĆ OGLĄDAĆ ANIME?</h3>
     
