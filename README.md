@@ -26,7 +26,7 @@
             font-weight: bold;
         }
         
-        .song-lyrics {
+        .krótkahistoriaanime {
             background-color: yellow;
             font-family: fantasy;
             font-size: 13px;
@@ -45,12 +45,17 @@
     
     <p>Learn more on <a href="https://pl.wikipedia.org/wiki/Anime">Wikipedia</a>.</p>
     
-    <h2>Songs</h2>
+    <h2>KRÓTKA HISTORIA ANIME</h2>
     
-    <p class="song-lyrics">Little Bunny Foo Foo, <br>
-I don't want to see you <br>
-scooping up the field mice <br>
-and bopping them on the head!</p>
+    <p class="krótkahistoriaanime">Ale słowo anime ma jeszcze jedną specyficzną wartość i często dotyczy japońskich animacji, <br>
+która w ostatnich latach stała się bardzo popularna. <br>
+To właśnie Japonię uważa się za matkę anime. <br>
+Japonia jako pierwsza odniosła sukcesy w produkcji filmów animowanych i działo się to w latach wojennych. <br>
+Po wojnie rozwój animacji w tym wschodnim kraju przeżył kryzys całkowity zastój, <br>
+bardzo popularne stały się w tym czasie animacje amerykańskie. <br>
+Japonia – kraj wielu ciekawych sztuk – zabrała się za rozwój innego gatunku, <br>
+którym był komiks i nosił nazwę manga, który dzisiaj również jest bardzo popularny. <br>
+    </p>
     
     <p class="song-lyrics">And down came the Good Fairy <br>
 And she said <br>
