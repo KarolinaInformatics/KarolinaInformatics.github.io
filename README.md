@@ -47,8 +47,7 @@
     
     <h2>KRÓTKA HISTORIA ANIME</h2>
     
-    <p class="krótkahistoriaanime">Ale słowo anime ma jeszcze jedną specyficzną wartość i często dotyczy japońskich animacji, <br>
-która w ostatnich latach stała się bardzo popularna. <br>
+    <p class="krótkahistoriaanime">Słowo anime ma jeszcze jedną specyficzną wartość i często dotyczy japońskich animacji, która w ostatnich latach stała się bardzo popularna. <br>
 To właśnie Japonię uważa się za matkę anime. <br>
 Japonia jako pierwsza odniosła sukcesy w produkcji filmów animowanych i działo się to w latach wojennych. <br>
 Po wojnie rozwój animacji w tym wschodnim kraju przeżył kryzys całkowity zastój, <br>
@@ -57,19 +56,24 @@ Japonia – kraj wielu ciekawych sztuk – zabrała się za rozwój innego gatun
 którym był komiks i nosił nazwę manga, który dzisiaj również jest bardzo popularny. <br>
     </p>
     
-    <p class="song-lyrics">And down came the Good Fairy <br>
-And she said <br>
-"Little bunny Foo Foo <br>
-I don't like you're attitude <br>
-Scooping up the field mice <br>
-And bopping 'em on the head" <br>
+    <p class="krótkahistoriaanime">To właśnie manga stała się ponownie inspiracją do powstawania nowych filmów animowanych. <br>
+Filmy te były nacechowane swoją specjalnością i dotykały wiele dziedzin z życia. <br>
+Animacje te skierowane były przeważnie do dorosłych bądź też młodzieży. <br>
+Zdobywały coraz większą popularność, szczególnie opierając się na komiksach manga. <br> 
+Tematyką filmów animowanych była przede wszystkim magia, elektronika, robotyka niemal wszystko co fantastyczne. <br>
+Na początku lat osiemdziesiątych anime było bardzo popularne nie tylko w Japonii ale niemal na całym świecie. <br>
+Popularność była do tego topnia iż w Japonii stała się jedną z gałęzi gospodarki przynosząc ogromne dochody. <br>
     </p>
     
-    <p class="song-lyrics">I'll give you 3 chances. <br>
-Then I'll turn you into a goon! <br>
-The next day…</p>
+    <p class="krótkahistoriaanime">Od tego czasu sztuka anime, bo śmiało można ja tak nazywać stała się bardzo istotnym nurtem na całym świecie. <br> 
+Powstało wiele nowych gatunków, a także wraz z powiększająca się techniką powstawały coraz to bardziej nowoczesne filmy animowane. <br>
+Filmy te zawierają treści opisujące bardzo często bohaterów samotnych i walczących o dobro na świecie. <br>
+Pomimo tego iż bardzo często świat pokazywany w anime to świat fantastyczny, opierający się na magii to anime jest odbierane bardzo poważnie, to pisze historie anime. <br>
+Nurt ten stał się na tyle poważny że objął cały świat i kultywowany jest niemalże w każdym kraju. <br>
+Wiele grup fanów organizuje się nie tylko w internecie, ale i wielu stowarzyszeniach i grupach. <br>
+</p>
     
-    <img src="https://www.kasandbox.org/programming-images/animals/rabbit.png" alt="Rabbit with lop ears in barn" width="203"> 
+    <img src="https://samequizy.pl/wp-content/uploads/2015/11/filing_images_3358762e0ac6.jpg" alt="skaładkapostacianime" width="203"> 
     
     <h3>Why rabbits make great pets</h3>
     
