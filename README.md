@@ -12,7 +12,7 @@
             font-size: 1.5em;
         }  
         
-        #rabbits-info-heading {
+        #anime-info-heading {
             background-color: purple;
         }
         
@@ -21,7 +21,7 @@
             font-family: "Helvetica", sans-serif;
         }
         
-        #rabbits-info {
+        #anime-info {
             color: purple;
             font-weight: bold;
         }
@@ -39,9 +39,9 @@
 
     <h1>ANIME - WSZYSTKIE NIEZBĘDNE INFORMACJE</h1>
     
-    <h2 id="rabbits-info-heading">CO TO JEST ANIME?</h2>
+    <h2 id="anime-info-heading">CO TO JEST ANIME?</h2>
     
-    <p id="rabbits-info">Anime - słowo to oznacza film animowany, z tym że <strong>w Japonii terminem tym określa się wszystkie seriale i filmy animowane, bez względu na kraj ich pochodzenia. Natomiast poza Japonią słowo <em>anime</em> służy do określenia japońskich filmów animowanych oraz stylu japońskiej animacji.</strong> </p>
+    <p id="anime-info">Anime - słowo to oznacza film animowany, z tym że <strong>w Japonii terminem tym określa się wszystkie seriale i filmy animowane, bez względu na kraj ich pochodzenia. Natomiast poza Japonią słowo <em>anime</em> służy do określenia japońskich filmów animowanych oraz stylu japońskiej animacji.</strong> </p>
     
     <p>Learn more on <a href="https://pl.wikipedia.org/wiki/Anime">Wikipedia</a>.</p>
     
@@ -73,7 +73,7 @@ Nurt ten stał się na tyle poważny że objął cały świat i kultywowany jest
 Wiele grup fanów organizuje się nie tylko w internecie, ale i wielu stowarzyszeniach i grupach. <br>
 </p>
     
-    <img src="https://samequizy.pl/wp-content/uploads/2015/11/filing_images_3358762e0ac6.jpg" alt="skaładkapostacianime" width="203"> 
+    <img src="https://samequizy.pl/wp-content/uploads/2015/11/filing_images_3358762e0ac6.jpg" alt="skaładkapostacianime" width="222"> 
     
     <h3>DLACZEGO WARTO ZACZĄĆ OGLĄDAĆ ANIME?</h3>
     
@@ -83,7 +83,7 @@ Wiele grup fanów organizuje się nie tylko w internecie, ale i wielu stowarzysz
         <li>Są przedewszystkim bardzo ciekawe.</li>
     </ul>
     
-    <h3>3 NAJBARDZIEJ ZNANE ANIME:</h3>
+    <h3>5 NAJBARDZIEJ ZNANYCH ANIME:</h3>
     
     <ol>
         <li>NARUTO</li>
