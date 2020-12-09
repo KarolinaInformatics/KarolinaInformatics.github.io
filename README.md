@@ -41,7 +41,7 @@
     
     <h2 id="rabbits-info-heading">CO TO JEST ANIME?</h2>
     
-    <p id="rabbits-info">Anime - oznacza ono film animowany, z tym że <strong>w Japonii terminem tym określa się wszystkie seriale i filmy animowane, bez względu na kraj ich pochodzenia. Natomiast poza Japonią słowo <em>anime</em> służy do określenia japońskich filmów animowanych oraz stylu japońskiej animacji.</strong> </p>
+    <p id="rabbits-info">Anime - słowo to oznacza film animowany, z tym że <strong>w Japonii terminem tym określa się wszystkie seriale i filmy animowane, bez względu na kraj ich pochodzenia. Natomiast poza Japonią słowo <em>anime</em> służy do określenia japońskich filmów animowanych oraz stylu japońskiej animacji.</strong> </p>
     
     <p>Learn more on <a href="https://pl.wikipedia.org/wiki/Anime">Wikipedia</a>.</p>
     
