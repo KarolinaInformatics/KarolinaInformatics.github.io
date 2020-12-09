@@ -79,7 +79,7 @@ Wiele grup fanów organizuje się nie tylko w internecie, ale i wielu stowarzysz
     
     <ul>
         <li>Potrafi poruszać ważne społecznie oraz kontrowersyjne tematy skłaniając widza do refleksji.</li>
-        <li>Rozpatruje owe tematy nieszablonowo, bardzo często za pomoca genialnych metafor, i pokazuje go z wielu stron, co z kolei potrafi nauczyć, by patrzeć na świat z wielu perspektyw.</li>
+        <li>Rozpatruje owe tematy nieszablonowo, bardzo często za pomocą genialnych metafor, i pokazuje je z wielu stron, co z kolei potrafi nauczyć, by patrzeć na świat z wielu perspektyw.</li>
         <li>Są przedewszystkim bardzo ciekawe.</li>
     </ul>
     
